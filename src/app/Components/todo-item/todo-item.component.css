@@ -1,0 +1,10 @@
+.is-complete {
+    text-decoration: line-through;
+}
+
+.todo-item {
+    display: block;
+    background: #f5f5f5;
+    padding: 10px;
+    margin: 5px 0px;
+}
